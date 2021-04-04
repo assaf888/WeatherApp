@@ -1,0 +1,16 @@
+{
+  "name": "weather-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weatherMonitoring.js",
+  "scripts": {
+    "start": "node weatherMonitoring",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
